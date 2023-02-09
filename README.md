@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://your-solution-url.com)
-- Live Site URL: [](https://divyanshidetroja.github.io/front-end-mentor-solution-product-prview-card-component/)
+- Solution URL: ([https://your-solution-url.com](https://github.com/DivyanshiDetroja/front-end-mentor-solution-product-prview-card-component))
+- Live Site URL: [product-preview-card](https://divyanshidetroja.github.io/front-end-mentor-solution-product-prview-card-component/)
 
 ## My process
 
